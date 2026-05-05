@@ -47,6 +47,3 @@ docker run -p 8080:8080 aiqa-app
 - Play button for media
 - Database integration
 - CI/CD pipeline
-
-## Demo
-Demo video link: Add here
