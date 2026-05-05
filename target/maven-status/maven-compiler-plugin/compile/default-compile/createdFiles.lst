@@ -1,0 +1,4 @@
+com\example\aiqa\service\PdfService.class
+com\example\aiqa\AiQaApplication.class
+com\example\aiqa\service\AiService.class
+com\example\aiqa\controller\DocumentController.class

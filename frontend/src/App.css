@@ -1,0 +1,75 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: linear-gradient(to right, #eef2ff, #f8fafc);
+}
+
+/* Container */
+.container {
+  width: 90%;
+  max-width: 800px;
+  margin: 40px auto;
+}
+
+/* Title */
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #1e293b;
+}
+
+/* Card UI */
+.card {
+  background: white;
+  padding: 25px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+/* Inputs */
+input[type="text"],
+input[type="file"] {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0 15px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+/* Buttons */
+button {
+  padding: 10px 18px;
+  margin-top: 5px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-size: 14px;
+}
+
+button:hover {
+  background: #1e40af;
+}
+
+/* Output text */
+p {
+  margin-top: 15px;
+  white-space: pre-line;
+  color: #334155;
+}
+
+/* Sections spacing */
+.section {
+  margin-bottom: 25px;
+}
